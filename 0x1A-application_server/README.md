@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application server
 
 This was the application deployment project for our AirBnB clone. In this
@@ -46,3 +47,6 @@ Upstart script to keep the application running on server reboots.
 * **7. No service interruption**
   * [4-reload_gunicorn_no_downtime](./4-reload_gunicorn_no_downtime): Bash script that gracefully
   reloads Gunicorn.
+=======
+readme
+>>>>>>> a99782cec1323e2567edc5dc66b2410dfcd37089
